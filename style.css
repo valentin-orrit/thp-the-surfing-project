@@ -1,0 +1,12 @@
+
+.navbar {
+    background-color:#6A7275;
+}
+
+#hero {
+    height: 350px;
+    background-image: url("/static/banner-surf.jpg");
+    background-size: cover;
+    background-position: center;
+    /* filter: blur(8px); */
+}
